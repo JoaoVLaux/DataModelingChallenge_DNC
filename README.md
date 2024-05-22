@@ -2,7 +2,7 @@
 Este projeto foi desenvolvido como parte de um desafio de modelagem de dados pela EscolaDNC. O objetivo principal foi transformar um grande conjunto de dados brutos em insights acionáveis, utilizando ferramentas de análise e visualização de dados.
 
 ## **Dependências**
-Para executar os scripts e notebooks deste repositório, você precisará das seguintes bibliotecas Python:
+Para executar o notebooks deste repositório, você precisará das seguintes bibliotecas Python:
 
 - pandas
 - numpy
