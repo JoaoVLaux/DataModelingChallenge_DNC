@@ -12,6 +12,7 @@ Para executar os scripts e notebooks deste repositório, você precisará das se
 ## **Descrição dos Arquivos**
 
 data/data.csv: Conjunto de dados original utilizado no projeto.
+
 DataModelingChallenge_DNC.ipynb: Notebook com o processo de limpeza de dados.
 
 ## **Insights de Negócio**
